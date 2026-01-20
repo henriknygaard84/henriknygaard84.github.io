@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Min Portefølje</title>
+</head>
+<body style="font-family: sans-serif; text-align: center; margin-top: 50px;">
+
+    <h1>Hej, jeg hedder Henrik Nygård 👋</h1>
+    <p>Velkommen til min første hjemmeside hostet på GitHub!</p>
+    
+    <hr style="width: 50%;">
+    
+    <h3>Mine Projekter</h3>
+    <p>Her kommer der snart mere indhold.</p>
+
+</body>
+</html>
